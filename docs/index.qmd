@@ -1,8 +1,8 @@
 ---
-title: "Viridis Color Palettes"
+title: "Viridis Color Palettes(비리디스 컬러 팔레트)"
 subtitle: "this is subtitle"
 author: "Your name"
-categories: [quarto, r, data]
+categories: [quarto, r, data, 시각화]
 toc: true
 toc-location: right
 date: today
@@ -96,3 +96,7 @@ mpg |>
     geom_point() +
     scale_color_viridis(option = "A")
 ```
+
+## 한글 테스트
+
+한글이 제대로 나오는지 확인한다
